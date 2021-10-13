@@ -7,4 +7,4 @@ Materials for Fondations of NLP Labs, Unibuc
 
 - [Text Preprocessing](https://github.com/bucuram/foundations-of-NLP-labs/blob/main/Lab1.ipynb) (Normalization, Tokenization, Lemming, Stemming)
 
-- Upload assignment until the next lab here: https://forms.gle/ygCNwFM4i5RMPtsC6
+- Upload assignment until October 20th: https://forms.gle/ygCNwFM4i5RMPtsC6
