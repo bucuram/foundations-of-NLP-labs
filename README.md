@@ -13,4 +13,4 @@ Materials for Fondations of NLP Labs, Unibuc
 
 - [Text Preprocessing for non-english languages](https://github.com/bucuram/foundations-of-NLP-labs/blob/main/Lab2.ipynb)
 
-- Upload assignment until October 27th: https://forms.gle/wLsjCWnxK7w8GPvt9
+- Upload assignment until November 3rd: https://forms.gle/wLsjCWnxK7w8GPvt9
