@@ -20,3 +20,9 @@ Materials for Fondations of NLP Labs, Unibuc
 - [Word representation](https://github.com/bucuram/foundations-of-NLP-labs/blob/main/Lab3.ipynb)
 
 - Upload assignment until November 17th: https://forms.gle/qTzLy6F6jkUtQrvy7
+
+**Lab 4**
+
+- [Word embeddings](https://github.com/bucuram/foundations-of-NLP-labs/blob/main/Lab4.ipynb)
+
+- Upload assignment until December 15th: https://forms.gle/KuR71xiA2rR6tukz8 
