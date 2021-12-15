@@ -26,3 +26,7 @@ Materials for Fondations of NLP Labs, Unibuc
 - [Word embeddings](https://github.com/bucuram/foundations-of-NLP-labs/blob/main/Lab4.ipynb)
 
 - Upload assignment until December 15th: https://forms.gle/KuR71xiA2rR6tukz8 
+
+**Lab 5**
+
+- [Topic Modelling](https://github.com/bucuram/foundations-of-NLP-labs/blob/main/Lab5.ipynb)
